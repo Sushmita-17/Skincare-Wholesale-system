@@ -1,0 +1,9 @@
+Customer_name:sushi-----------------------------------------------------/nProduct id	 Product name	 Selling_price	quantity	 brand	tt Total
+Product id :3
+3	sunscreen	4000	4	Aqualogica	18080.0
+
+--------------------------------------------Total VAT(13%):$18080.0Free Items: 1 free
+
+
+-------------------------------------------------------------------
+
